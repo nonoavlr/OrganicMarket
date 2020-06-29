@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Escolha seu tipo de Conta";
+}
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+<form method="post" asp-controller="Account" asp-action="ChooseAccount">
+    <div class="row">
+        <div class="col-md-4">
+
+            <div class="form-group" id="botao">
+                    <a class="btn btn-primary btn-lg" asp-controller="Account" asp-action="CreateProdutor" style="color:white">Produtor</a>
+            </div>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 col-md-offset-2">
+
+            <div class="form-group" id="botao">
+                    <a class="btn btn-primary btn-lg" asp-controller="Account" asp-action="CreateComprador" style="color:white;">Comprador</a>
+            </div>
+
+        </div>
+    </div>
+</form>
+
+

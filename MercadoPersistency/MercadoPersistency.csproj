@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200509003734_Initial.cs" />
+    <Compile Remove="Migrations\20200509003734_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20200512152025_Second.cs" />
+    <Compile Remove="Migrations\20200512152025_Second.Designer.cs" />
+    <Compile Remove="Migrations\20200512202826_Third.cs" />
+    <Compile Remove="Migrations\20200512202826_Third.Designer.cs" />
+    <Compile Remove="Migrations\20200512203828_Third.cs" />
+    <Compile Remove="Migrations\20200512203828_Third.Designer.cs" />
+    <Compile Remove="Migrations\20200512204304_Initial.cs" />
+    <Compile Remove="Migrations\20200512204304_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20200513001357_Initial.cs" />
+    <Compile Remove="Migrations\20200513001357_Initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MercadoApplication\MercadoApplication.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
+</Project>

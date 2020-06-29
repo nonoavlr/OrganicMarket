@@ -1,0 +1,53 @@
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.deps.json
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csprojAssemblyReference.cache
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.deps.json
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csprojAssemblyReference.cache
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfo.cs
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicosAgoraVai\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.deps.json
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicosAgoraVai\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicosAgoraVai\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicosAgoraVai\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csprojAssemblyReference.cache
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicosAgoraVai\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicosAgoraVai\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicosAgoraVai\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfo.cs
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicosAgoraVai\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicosAgoraVai\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MercadoOrganico\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.deps.json
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MercadoOrganico\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MercadoOrganico\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MercadoOrganico\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MercadoOrganico\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MercadoOrganico\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MercadoOrganico\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MercadoOrganico\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+C:\Users\gabri\Desktop\Projeto\NonoavlrForked\MercadoOrganico\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.deps.json
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csprojAssemblyReference.cache
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfo.cs
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.deps.json
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\bin\Debug\netcoreapp3.0\MercadoInfrastructure.pdb
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csprojAssemblyReference.cache
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.AssemblyInfo.cs
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.dll
+\\Mac\Home\Documents\LC\MercadoOrganico\MercadoProdutosOrganicos\MercadoOrganico\MercadoInfrastructure\obj\Debug\netcoreapp3.0\MercadoInfrastructure.pdb

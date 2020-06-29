@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/WL7gjCovgjOY0cVQvDKRYl0OElpzUSAx3HgyCyGwW05orXxWLq0jJDO6+iZzEC0iw4ULsXrsofeUACNKjA7Pw==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\LC\\MercadoOrganico\\MercadoCore\\MercadoCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nohanlisboa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\nohanlisboa\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\nohanlisboa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

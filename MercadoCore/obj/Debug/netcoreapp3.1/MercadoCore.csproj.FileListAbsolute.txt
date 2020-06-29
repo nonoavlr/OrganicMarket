@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoCore\obj\Debug\netcoreapp3.1\MercadoCore.csprojAssemblyReference.cache
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoCore\obj\Debug\netcoreapp3.1\MercadoCore.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoCore\obj\Debug\netcoreapp3.1\MercadoCore.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\LC\MyPerformance\Trabalhos Individuais do Curso\MercadoProdutosOrganicos\MercadoOrganico\MercadoCore\obj\Debug\netcoreapp3.1\MercadoCore.AssemblyInfo.cs
